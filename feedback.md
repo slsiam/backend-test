@@ -4,19 +4,19 @@ Esse documento visa coletar feedbacks sobre o teste de desenvolvimento. Desde o 
 ## Antes de Iniciar o Teste
 
 1 - Fale sobre suas primeiras impressões do Teste:
-> Resposta
+> É um projeto interresante, simples mas bem estruturado.
 
 2 - Tempo estimado para o teste:
-> Resposta
+> 10 Horas
 
 3 - Qual parte você no momento considera mais difícil?
-> Resposta
+> Os testes, estou acostumando a fazer testes com o jest, ja tem um tempo que não uso o PHPUnit
 
 4 - Qual parte você no momento considera que levará mais tempo?
-> Resposta
+> Os testes
 
 5 - Por onde você pretende começar?
-> Resposta
+> Vou iniciar criando o CRUD
 
 
 ## Após o Teste
