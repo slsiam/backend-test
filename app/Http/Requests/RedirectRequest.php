@@ -4,6 +4,7 @@ namespace App\Http\Requests;
 
 use App\Rules\ValidateUrlRule;
 use App\Rules\NotSameUrlRule;
+use App\Rules\NoEmptyQueryParams;
 use Illuminate\Foundation\Http\FormRequest;
 
 class RedirectRequest extends FormRequest
@@ -21,7 +22,8 @@ class RedirectRequest extends FormRequest
                 'url:https',
                 'starts_with:https',
                 new ValidateUrlRule(),
-                new NotSameUrlRule()
+                new NotSameUrlRule(),
+                new NoEmptyQueryParams()
             ]
         ];
     }
