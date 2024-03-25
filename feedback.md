@@ -22,16 +22,16 @@ Esse documento visa coletar feedbacks sobre o teste de desenvolvimento. Desde o 
 ## Após o Teste
 
 1 - O que você achou do teste?
-> Resposta
+> Bem interresante
 
 2 - Levou mais ou menos tempo do que você esperava?
-> Resposta
+> Menos tempo, levei mais ou menos 9 horas. 
 
 3 - Teve imprevistos? Quais?
-> Resposta
+> Os testes, já tinha um tempo que não fazia testes unitarios com php.
 
 4 - Existem pontos que você gostaria de ter melhorado?
-> Resposta
+> Os testes.
 
 5 - Quais falhas você encontrou na estrutura do projeto?
-> Resposta
+> Não.
